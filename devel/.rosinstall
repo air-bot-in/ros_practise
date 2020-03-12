@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hudkmr/ros_project_ws/devel/setup.sh
